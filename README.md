@@ -1,3 +1,5 @@
+Projenin Canlı Linki --> https://noteappaylin.netlify.app/
+
 # React Note App
 
 Basit bir **Not Uygulaması**. Kullanıcı not ekleyebilir, notlara renk seçebilir ve yazılmış notları filtreleyebilir.
