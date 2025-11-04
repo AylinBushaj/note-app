@@ -2,6 +2,9 @@
 
 Basit bir **Not Uygulaması**. Kullanıcı not ekleyebilir, notlara renk seçebilir ve yazılmış notları filtreleyebilir.
 
+
+<img width="633" height="796" alt="note-app" src="https://github.com/user-attachments/assets/2b48584a-0bca-4b2f-bdd1-60956a2c92f8" />
+
 ---
 
 ## 📦 Teknolojiler
